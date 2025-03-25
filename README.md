@@ -1,5 +1,5 @@
 # IDA-Arayuz
-İnsansız deniz aracı için arayüz
+TEKNOFEST İnsansız deniz aracı için arayüz
 https://drive.google.com/drive/folders/1TFGt2a-FosIVjDa4YG4-tdZ5Ii2JGGp0?usp=drive_link
 Front için dart backend için python kullanılmıştır . Mission planner ile etkileşimde çalışan sistemdir
 ![ida](https://github.com/user-attachments/assets/4258c46f-c386-4e54-a280-ae6ae39e8e69)
